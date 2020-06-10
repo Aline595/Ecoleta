@@ -4,10 +4,11 @@ O Ecoleta é uma aplicação Web para ajudar pessoas a encontrarem pontos de col
 Foi desenvolvida durante a semana Next Level Week da Rocketseat.
 
 ## :computer: Tecnologia Usadas
-- TypeScript
+
 - Node.js
-- ReactJS
-- React Native
+- Nondemon
+- Sqlite3
+- Nunjucks
 
 ## :camera: Imagens 
 
@@ -21,6 +22,5 @@ Foi desenvolvida durante a semana Next Level Week da Rocketseat.
 ![pagina-busca](https://user-images.githubusercontent.com/56769013/84215962-6d170000-aa9e-11ea-89fb-e4fc9a0ff511.png)
 
 
-                                              Feito com :heart: por Aline
 
 
