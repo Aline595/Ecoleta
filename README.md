@@ -20,7 +20,7 @@ Foi desenvolvida durante a semana Next Level Week da Rocketseat.
 - Página resultado de busca de pontos de acordo com a cidade escolhida:
 ![pagina-busca](https://user-images.githubusercontent.com/56769013/84215962-6d170000-aa9e-11ea-89fb-e4fc9a0ff511.png)
 
-<footer>
-  <p style="text-alight:center;margin-left:50%;">Feito com :heart: por Aline</p>
-</footer>
+
+                                              Feito com :heart: por Aline
+
 
