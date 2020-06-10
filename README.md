@@ -10,4 +10,5 @@ Essa aplicação foi construída durante a semana Next Level Week distribuída p
 - React Native
 
 ## Imagens 
-<img src=”/imagens-Ecoleta/pagina-home.png”>
+<img src=”/imagens-Ecoleta/pagina-home.png” width="150" height="150">
+![](/imagens-Ecoleta/pagina-home.png)
