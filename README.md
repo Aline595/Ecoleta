@@ -8,3 +8,6 @@ Essa aplicação foi construída durante a semana Next Level Week distribuída p
 - Node.js
 - ReactJS
 - React Native
+
+## Imagens 
+<img src=”/imagens-Ecoleta/pagina-home.png”>
